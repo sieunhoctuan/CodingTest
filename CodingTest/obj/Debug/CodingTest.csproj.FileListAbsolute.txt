@@ -1,0 +1,7 @@
+F:\My Project\CodingTest\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+F:\My Project\CodingTest\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+F:\My Project\CodingTest\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+F:\My Project\CodingTest\CodingTest\CodingTest\obj\Debug\CodingTest.csprojAssemblyReference.cache
+F:\My Project\CodingTest\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.CoreCompileInputs.cache
+F:\My Project\CodingTest\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+F:\My Project\CodingTest\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
